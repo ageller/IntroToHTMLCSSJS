@@ -1,6 +1,8 @@
-# Introduction to HTML + CSS + JS
+# Website Basics with HTML, CSS and JS
 
-This workshop covers the basics of web development using HTML, CSS and Javascript. We will start with an overview of each of these tools, then discuss how to get started developing websites using these tools, and finally we will discuss a simple example website that illustrates how these tools work together.  No prior knowledge is required, though some level of background in coding may be beneficial.
+This workshop covers the basic ingredients that go into building websites : HTML, CSS and Javascript. You will learn how, why and where to use each of these tools and how they work together.  This workshop is intended for people who want to get started learning how to make their own websites, scrape websites, develop interactive online visualizations, or create any other web-based applications. 
+
+No prior knowledge is required, though some level of background in coding may be beneficial.  Prior to the workshop, please ensure that you have python installed on your computer (only needed to start a local web server).
 
 Click [here](https://docs.google.com/presentation/d/1qX9lqbAMkg1IouSIzxPFFKyAa9u4eCAlvpjOxBBYjMo/edit?usp=sharing) for the Google Slides version of the talk.  
 
