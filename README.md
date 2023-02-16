@@ -10,4 +10,4 @@ I have also hosted a set of example websites on CodePen that we will work throug
 
 Click [here](https://docs.google.com/presentation/d/1qX9lqbAMkg1IouSIzxPFFKyAa9u4eCAlvpjOxBBYjMo/edit?usp=sharing) for the Google Slides version of the talk.  
 
-Click [here](https://ageller.github.io/IntroToHTMLCSSJS/examples/full/) for a live version of this website.
+Click [here](https://ageller.github.io/IntroToHTMLCSSJS/examples/htmlcssjsiframe/) for a live version of this website on GitHub pages.
