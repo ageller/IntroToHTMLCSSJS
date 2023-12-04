@@ -11,3 +11,5 @@ I have also hosted a set of example websites on CodePen that we will work throug
 Click [here](https://docs.google.com/presentation/d/1qX9lqbAMkg1IouSIzxPFFKyAa9u4eCAlvpjOxBBYjMo/edit?usp=sharing) for the Google Slides version of the talk.  
 
 Click [here](https://ageller.github.io/IntroToHTMLCSSJS/examples/htmlcssjsiframe/) for a live version of this website on GitHub pages.
+
+Also, [this educative course](https://www.educative.io/courses/learn-html-css-javascript-from-scratch) is another greate resource for learning HTML, CSS and Javascript. 
