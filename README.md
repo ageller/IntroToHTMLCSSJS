@@ -8,7 +8,7 @@ I have also hosted a set of example websites on CodePen that we will work throug
 * [Full website with HTML + CSS + JS](https://codepen.io/ageller/pen/mdWEPwV)
 * [Full website with HTML + CSS + JS + iFrame](https://codepen.io/ageller/pen/KKxppQX)
 
-Click [here](https://docs.google.com/presentation/d/1qX9lqbAMkg1IouSIzxPFFKyAa9u4eCAlvpjOxBBYjMo/edit?usp=sharing) for the Google Slides version of the talk.  
+Click [here](https://docs.google.com/presentation/d/1qX9lqbAMkg1IouSIzxPFFKyAa9u4eCAlvpjOxBBYjMo/edit?usp=sharing) for the Google Slides version of the talk, and [here](https://docs.google.com/presentation/d/1BKYMC8ZbLuYOdmU014bC9NweEun4EexGd9bL_sOJa2E/edit?usp=sharing) for a version that includes extra information about web scraping. 
 
 Click [here](https://ageller.github.io/IntroToHTMLCSSJS/examples/htmlcssjsiframe/) for a live version of this website on GitHub pages.
 
